@@ -1,0 +1,16 @@
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.exe
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.deps.json
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.json
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.dev.json
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.dll
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\ref\Cad.Series.dll
+E:\DIO\.NET\projeto_series\Cad.Series\bin\Debug\net5.0\Cad.Series.pdb
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.AssemblyReference.cache
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfoInputs.cache
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfo.cs
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.dll
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\ref\Cad.Series.dll
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.pdb
+E:\DIO\.NET\projeto_series\Cad.Series\obj\Debug\net5.0\Cad.Series.genruntimeconfig.cache
